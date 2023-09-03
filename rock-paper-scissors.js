@@ -59,7 +59,7 @@
        else if( computerMove === 'paper'){
          result = 'You Win';
        }
-       else if( computerMove === 'Scissors'){
+       else if( computerMove === 'scissors'){
 
        result = 'Tie';
        }
@@ -73,7 +73,7 @@
          else if( computerMove === 'paper'){
            result = 'You Lose';
          }
-        else if( computerMove === 'Scissors'){
+        else if( computerMove === 'scissors'){
 
          result = 'You Win';
        }
@@ -87,7 +87,7 @@
        else if( computerMove === 'paper'){
          result = 'Tie';
        }
-      else if( computerMove === 'Scissors'){
+      else if( computerMove === 'scissors'){
         result = 'You Lose';
         }
 
