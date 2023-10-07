@@ -141,7 +141,7 @@
          computerMove =  'paper';
        }
        else  if(randomNumber >= 2/3 && randomNumber < 1 ){
-           computerMove =  'Scissors';
+           computerMove =  'scissors';
        }
 
        return computerMove;
